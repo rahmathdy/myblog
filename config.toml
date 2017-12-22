@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313"
+baseurl = "https://rahmathdy.github.io/"
 languageCode = "en-us"
 title = "Hugo Themes"
 author = "Steve Francia"
